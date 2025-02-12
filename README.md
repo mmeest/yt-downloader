@@ -1,14 +1,32 @@
 ﻿# YTD
 
-Python: Kõigepealt peab kasutaja oma arvutisse paigaldama Python (soovitavalt Python 3.x versiooni), kuna see on programmi tööks vajalik.
+Python: Programmi vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
 
-yt-dlp: Kuna kasutate yt-dlp teeki YouTube'i videote allalaadimiseks, peab see olema paigaldatud. Selle saab paigaldada järgmise käsu abil:
+FFmpeg: Audio ja video striimid liidetakse kokku FFmpeg abil. 
+Seega kasutuseks vajalik paigaldada: https://www.ffmpeg.org/
+
+---
+
+## Resolutions
+
+* best
+* 720p
+* 1080p
+* 1440p
+* 2160p
+* worst
+
+Videod talletatakse programmikataloogi.  
+
+
+----
+yt-dlp: Rakendus kasutab yt-dlp downloader libraries https://www.pythoncentral.io/yt-dlp-download-youtube-videos/
 
 ```
 pip install yt-dlp
 ```
 
-FFmpeg: Kui videosse on sisseehitatud mitu meediumivoogu (nt video ja heli eraldi), siis on FFmpeg vajalik, et neid ühendada. Kui teie süsteemis ei ole FFmpeg installitud, siis võib programm hakata teavitama, et vajab FFmpeg-i. FFmpeg-i saab paigaldada järgmistel viisidel:
+FFmpeg paigaldamine:
 
     Windows:
         Laadige alla FFmpeg ametlikult veebilehelt: https://ffmpeg.org/download.html.
