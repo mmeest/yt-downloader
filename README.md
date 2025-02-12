@@ -15,8 +15,9 @@ Seega kasutuseks vajalik paigaldada: https://www.ffmpeg.org/
 * 1440p
 * 2160p
 * worst
+* MP3
 
-Videod talletatakse programmikataloogi.  
+Videod talletatakse "downloads" kataloogi.  
 
 
 ----
