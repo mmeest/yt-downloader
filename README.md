@@ -1,9 +1,12 @@
-﻿# YTD
+﻿# YTY.py -> YTY.exe <- viimane versioon
 
 Python: Programmi vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
 
 FFmpeg: Audio ja video striimid liidetakse kokku FFmpeg abil. 
 Seega kasutuseks vajalik paigaldada: https://www.ffmpeg.org/
+
+
+Enne download'i kontrollitakse faili olemasolu.
 
 ---
 
@@ -18,7 +21,6 @@ Seega kasutuseks vajalik paigaldada: https://www.ffmpeg.org/
 * MP3
 
 Videod talletatakse "downloads" kataloogi.  
-
 
 ----
 yt-dlp: Rakendus kasutab yt-dlp downloader libraries https://www.pythoncentral.io/yt-dlp-download-youtube-videos/
