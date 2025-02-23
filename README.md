@@ -1,7 +1,7 @@
 ﻿# YTY.py -> YTY.exe <- viimane versioon
 ## Youtube Downloader
 
-Python: Programmi vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
+Python: Programm vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
 
 FFmpeg: Audio ja video striimid liidetakse kokku FFmpeg abil. 
 Seega kasutuseks vajalik paigaldada: https://www.ffmpeg.org/
