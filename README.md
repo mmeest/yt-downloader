@@ -1,4 +1,5 @@
-﻿# YTY.py -> YTY.exe <- viimane versioon(Youtube Downloader)
+﻿# YTY.py -> YTY.exe <- viimane versioon
+## Youtube Downloader
 
 Python: Programmi vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
 
