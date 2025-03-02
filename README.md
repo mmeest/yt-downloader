@@ -1,4 +1,10 @@
-﻿# YTY.py -> YTY.exe <- viimane versioon
+<div>
+  <p align="center">
+    <img src="https://github.com/mmeest/yt-downloader/blob/master/yt.png" height="250px">
+  </p>
+</div>
+ 
+ # YTY.py -> YTY.exe <- viimane versioon
 ## Youtube Downloader
 
 Python: Programm vajab, et oleks paigaldatud Python(soovitavalt Python 3.x)
